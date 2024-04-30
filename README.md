@@ -1,4 +1,4 @@
-# Olá, mundo! 👋
+# Olá, bem-vindo ao meu perfil 👋
 
 Meu nome é Kauã Gabriel, atualmente estou aprendendo sobre HTML e CSS. Sou apaixonado por tornar a vida algo mais fácil e divertida e atualmente estou trabalhando em fazer um portfólio de gamificação.
 

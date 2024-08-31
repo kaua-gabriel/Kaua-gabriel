@@ -6,7 +6,7 @@ Meu nome é Kauã Gabriel, atualmente estou aprendendo sobre HTML e CSS. Sou apa
 - 🌱 Estou aprendendo sobre jogos digitais.
 - 💬 Pergunte-me sobre áreas relacionadas a HTML e CSS.
 - 📫 Como entrar em contato comigo: meu Gmail é gkaua4380@gmail.com.
-- ⚡ Fato curioso: sou curioso para aprender coisas relacionadas com astronomia e tecnologia.
+- ⚡ Fato curioso: sou curioso para aprender coisas relacionadas com design e tecnologia.
 
 <!--https://minhas linguagens.dev/-->
 <div style="display: inline_block"><br>

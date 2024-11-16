@@ -22,7 +22,7 @@ Meu nome é Kauã Gabriel, atualmente estou aprendendo sobre HTML e CSS. Sou apa
 
 <!--https://grafico.dev/-->
 <div>
-  <a href="https://github.com/felipe-tneves">
+  <a href="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaua-gabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-gabriels&layout=compact&langs_count=7&theme=dark"/>
 </div>

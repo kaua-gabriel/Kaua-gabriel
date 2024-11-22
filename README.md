@@ -9,9 +9,7 @@ Meu nome é Kauã Gabriel, atualmente estou aprendendo sobre HTML e CSS. Sou apa
 - ⚡ Fato curioso: sou curioso para aprender coisas relacionadas com design e tecnologia.
 
 <!--https://minhas linguagens.dev/-->
-<div style="display: inline_block"><br>
-  <img align="center" alt="kauã-HTML" height="30" width="40" src="">
-  <img align="center" alt="kauã-CSS" height="30" width="40" src="">
+
   
   
  <!--https://minhas redes sociais.dev/-->

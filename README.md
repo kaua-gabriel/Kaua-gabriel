@@ -1,17 +1,15 @@
 # Olá, bem-vindo ao meu perfil 👋
 
-Meu nome é Kauã Gabriel, atualmente estou aprendendo sobre HTML e CSS. Sou apaixonado por tornar a vida algo mais fácil e divertida e atualmente estou trabalhando em fazer um portfólio de gamificação.
+Meu nome é Kauã Gabriel, atualmente estou aprendendo sobre HTML, CSS, Javascript e C#. Sou apaixonado por tornar a vida algo mais fácil e divertida e atualmente estou trabalhando em fazer um portfólio de gamificação.
 
 ## O que estou fazendo atualmente:
 - 🌱 Estou aprendendo sobre jogos digitais.
-- 💬 Pergunte-me sobre áreas relacionadas a HTML e CSS.
+- 💬 Pergunte-me sobre áreas relacionadas a HTML, CSS, javascript ou até mesmo Unity.
 - 📫 Como entrar em contato comigo: meu Gmail é gkaua4380@gmail.com.
 - ⚡ Fato curioso: sou curioso para aprender coisas relacionadas com design e tecnologia.
 
-<!--https://minhas linguagens.dev/-->
 
-  
-  
+
  <!--https://minhas redes sociais.dev/-->
 <br><div> 
   <a href="https://www.instagram.com/kaa_gab?igsh=MmZnbjV3a3oxdjlw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

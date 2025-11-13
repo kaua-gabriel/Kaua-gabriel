@@ -3,6 +3,8 @@
 Aprendendo **HTML, CSS, JavaScript** e **C#**, com foco em **desenvolvimento de jogos** e experiências gamificadas.  
 Sou apaixonado por **tornar a vida mais fácil e divertida**, e atualmente estou construindo meu portfólio de gamificação.
 
+![Banner animado](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
 ---
 
 ## 🚀 O que estou fazendo atualmente
@@ -21,14 +23,24 @@ Sou apaixonado por **tornar a vida mais fácil e divertida**, e atualmente estou
 
 ---
 
+## 🏆 Conquistas Gamificadas
+
+![Iniciante em Games](https://img.shields.io/badge/Level-1%20%28Iniciante%29-brightgreen?style=for-the-badge)
+![HTML Master](https://img.shields.io/badge/HTML-Avançado-blue?style=for-the-badge)
+![JavaScript Explorer](https://img.shields.io/badge/JS-Intermediário-yellow?style=for-the-badge)
+![C# Adventurer](https://img.shields.io/badge/C%23-Novato-orange?style=for-the-badge)
+![Unity Rookie](https://img.shields.io/badge/Unity-50%25-black?style=for-the-badge)
+
+---
+
 ## 💻 Skills & Tecnologias
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+HTML: ![HTML](https://img.shields.io/badge/HTML-90%25-brightgreen)
+CSS: ![CSS](https://img.shields.io/badge/CSS-80%25-blue)
+JavaScript: ![JS](https://img.shields.io/badge/JS-75%25-yellow)
+C#: ![C#](https://img.shields.io/badge/C%23-60%25-orange)
+Unity: ![Unity](https://img.shields.io/badge/Unity-50%25-black)
+Git: ![Git](https://img.shields.io/badge/Git-70%25-red)
 
 ---
 
@@ -39,13 +51,26 @@ Sou apaixonado por **tornar a vida mais fácil e divertida**, e atualmente estou
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-gabriel&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=kaua-gabriel&theme=dark&hide_border=true)
+
 ---
 
 ## 🎮 Meus Projetos Recentes
 
-- [🎲 Jogo da Memória]([https://github.com/kaua-gabriel/memory-game](https://kaua-gabriel.github.io/jogo-da-mem-ria)) – Um jogo interativo feito em JavaScript.
-- [🕹️ Sistema Solar]([https://github.com/kaua-gabriel/portfolio-gamificado](https://kaua-gabriel.github.io/Sistema-Solar)) – Meu portfólio com mecânicas de gamificação.
-- [🎨 Desafios de 1 ao 100]([https://github.com/kaua-gabriel/css-projects](https://kaua-gabriel.github.io/Jogo-De-Adivinhar)) – Experimentos visuais com HTML/CSS.
+### 🎲 Jogo da Memória
+![Preview](https://raw.githubusercontent.com/kaua-gabriel/memory-game/main/demo.gif)  
+Um jogo interativo feito em JavaScript.  
+[Ver projeto](https://kaua-gabriel.github.io/jogo-da-mem-ria)
+
+### 🕹️ Sistema Solar
+![Preview](https://raw.githubusercontent.com/kaua-gabriel/portfolio-gamificado/main/demo.gif)  
+Portfólio gamificado com mecânicas de jogos.  
+[Ver projeto](https://kaua-gabriel.github.io/Sistema-Solar)
+
+### 🎨 Desafios de 1 ao 100
+![Preview](https://raw.githubusercontent.com/kaua-gabriel/css-projects/main/demo.gif)  
+Experimentos visuais com HTML/CSS.  
+[Ver projeto](https://kaua-gabriel.github.io/Jogo-De-Adivinhar)
 
 > 🔔 Dica: adicione novos projetos conforme forem sendo concluídos! Isso mostra evolução contínua.
 
@@ -61,4 +86,4 @@ Quer ver meu humor de programador hoje? Clique no botão abaixo:
 
 ---
 
-> 💡 Dica final: Um README organizado, com badges, links de contato e projetos, aumenta muito o impacto visual e profissional do seu perfil.
+> 💡 Dica final: Um README organizado, com badges, GIFs, links de contato e projetos, aumenta muito o impacto visual e profissional do seu perfil.

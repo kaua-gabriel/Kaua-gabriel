@@ -43,9 +43,9 @@ Sou apaixonado por **tornar a vida mais fácil e divertida**, e atualmente estou
 
 ## 🎮 Meus Projetos Recentes
 
-- [🎲 Jogo da Memória](https://github.com/kaua-gabriel/memory-game) – Um jogo interativo feito em JavaScript.
-- [🕹️ Portfólio Gamificado](https://github.com/kaua-gabriel/portfolio-gamificado) – Meu portfólio com mecânicas de gamificação.
-- [🎨 Mini Projetos de CSS](https://github.com/kaua-gabriel/css-projects) – Experimentos visuais com HTML/CSS.
+- [🎲 Jogo da Memória]([https://github.com/kaua-gabriel/memory-game](https://kaua-gabriel.github.io/jogo-da-mem-ria)) – Um jogo interativo feito em JavaScript.
+- [🕹️ Sistema Solar]([https://github.com/kaua-gabriel/portfolio-gamificado](https://kaua-gabriel.github.io/Sistema-Solar)) – Meu portfólio com mecânicas de gamificação.
+- [🎨 Desafios de 1 ao 100]([https://github.com/kaua-gabriel/css-projects](https://kaua-gabriel.github.io/Jogo-De-Adivinhar)) – Experimentos visuais com HTML/CSS.
 
 > 🔔 Dica: adicione novos projetos conforme forem sendo concluídos! Isso mostra evolução contínua.
 

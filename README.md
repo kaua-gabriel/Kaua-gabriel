@@ -1,16 +1,16 @@
-# Olá, eu sou Kauã Gabriel 👋
+# Olá, eu sou o Kauã Gabriel 👋
 
-Aprendendo **HTML, CSS, JavaScript** e **C#**, com foco em **desenvolvimento de jogos** e experiências gamificadas.  
-Sou apaixonado por **tornar a vida mais fácil e divertida**, e atualmente estou construindo meu portfólio de gamificação.
+Estudante de **HTML, CSS, JavaScript** e **C#**, com foco em **desenvolvimento de jogos** e criação de experiências **gamificadas**.  
+Gosto de transformar ideias em interfaces interativas e projetos que deixem a tecnologia mais divertida e acessível.
 
 ---
 
 ## 🚀 O que estou fazendo atualmente
-- 🌱 Aprendendo sobre **jogos digitais** e desenvolvimento de games.
-- 💬 Posso conversar sobre **HTML, CSS, JavaScript** e **Unity**.
-- 📫 Contato: [gkaua4380@gmail.com](mailto:gkaua4380@gmail.com)
-- ⚡ Curiosidade: adoro explorar **design** e **tecnologia**.
-- 🎯 Meu objetivo: criar projetos divertidos e educativos que engajem usuários.
+- 🌱 Estudando **jogos digitais** e lógica de programação para games.
+- 💬 Converso sobre **HTML, CSS, JavaScript**, **Unity** e **C#**.
+- 🎯 Objetivo: criar projetos gamificados e educativos que engajem usuários.
+- ⚡ Curiosidade: adoro explorar **design**, **UX** e **tecnologia**.
+- 📫 Contato: **gkaua4380@gmail.com**
 
 ---
 
@@ -30,12 +30,39 @@ Sou apaixonado por **tornar a vida mais fácil e divertida**, e atualmente estou
 
 ## 💻 Skills & Tecnologias
 
-HTML: ![HTML](https://img.shields.io/badge/HTML-90%25-brightgreen)
-CSS: ![CSS](https://img.shields.io/badge/CSS-80%25-blue)
-JavaScript: ![JS](https://img.shields.io/badge/JS-75%25-yellow)
-C#: ![C#](https://img.shields.io/badge/C%23-60%25-orange)
-Unity: ![Unity](https://img.shields.io/badge/Unity-50%25-black)
+HTML: ![HTML](https://img.shields.io/badge/HTML-90%25-brightgreen)  
+CSS: ![CSS](https://img.shields.io/badge/CSS-80%25-blue)  
+JavaScript: ![JS](https://img.shields.io/badge/JS-75%25-yellow)  
+C#: ![C#](https://img.shields.io/badge/C%23-60%25-orange)  
+Unity: ![Unity](https://img.shields.io/badge/Unity-50%25-black)  
 Git: ![Git](https://img.shields.io/badge/Git-70%25-red)
+
+---
+
+## 🧰 Ferramentas que utilizo
+- **Visual Studio Code**
+- **Unity**
+- **Git & GitHub**
+- **Figma** (para rascunhos de UI)
+- **Notion/Trello** (organização dos estudos)
+
+---
+
+## 🎮 Meus Projetos Recentes
+
+### 🎲 Jogo da Memória  
+Um jogo interativo feito em JavaScript, focado em lógica e experiência do usuário.  
+👉 [Ver projeto](https://kaua-gabriel.github.io/jogo-da-mem-ria)
+
+### 🕹️ Sistema Solar  
+Portfólio gamificado com navegação entre planetas e elementos interativos.  
+👉 [Ver projeto](https://kaua-gabriel.github.io/Sistema-Solar)
+
+### 🎨 Desafios de 1 ao 100  
+Experimentos visuais e criativos usando HTML/CSS para desenvolver lógica e design.  
+👉 [Ver projeto](https://kaua-gabriel.github.io/Jogo-De-Adivinhar)
+
+> 🔔 *Dica: novos projetos serão adicionados conforme forem concluídos!*
 
 ---
 
@@ -48,25 +75,7 @@ Git: ![Git](https://img.shields.io/badge/Git-70%25-red)
 
 ---
 
-## 🎮 Meus Projetos Recentes
-
-### 🎲 Jogo da Memória
-Um jogo interativo feito em JavaScript.  
-[Ver projeto](https://kaua-gabriel.github.io/jogo-da-mem-ria)
-
-### 🕹️ Sistema Solar
-Portfólio gamificado com mecânicas de jogos.  
-[Ver projeto](https://kaua-gabriel.github.io/Sistema-Solar)
-
-### 🎨 Desafios de 1 ao 100
-Experimentos visuais com HTML/CSS.  
-[Ver projeto](https://kaua-gabriel.github.io/Jogo-De-Adivinhar)
-
-> 🔔 Dica: adicione novos projetos conforme forem sendo concluídos! Isso mostra evolução contínua.
-
----
-
 ## 🌐 Minhas redes
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaa_gab?igsh=MmZnbjV3a3oxdjlw)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaa_gab?igsh=MmZnbjV3a3oxdjlw)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-gabriel-227b0825b/)

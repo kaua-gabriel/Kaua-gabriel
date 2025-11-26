@@ -20,7 +20,6 @@ Gosto de transformar ideias em interfaces interativas e projetos que deixem a te
 
 **Critério de evolução:** commits + projetos concluídos + linguagens dominadas
 
-![Iniciante em Games](https://img.shields.io/badge/Level-1%20%28Iniciante%29-brightgreen?style=for-the-badge)
 ![HTML Master](https://img.shields.io/badge/HTML-Avançado-blue?style=for-the-badge)
 ![JavaScript Explorer](https://img.shields.io/badge/JS-Intermediário-yellow?style=for-the-badge)
 ![C# Adventurer](https://img.shields.io/badge/C%23-Novato-orange?style=for-the-badge)
